@@ -1,0 +1,8 @@
+{
+  "name": "FriendsMeet Hub",
+  "description": "An application for friends to watch movies, listen to music, and browse social media together in a virtual room with live video and text chat. Features AI-powered conversation starters to keep the fun going.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
